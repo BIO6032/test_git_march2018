@@ -1,1 +1,1 @@
-plot(runif(100))
+plot(runif(500))
